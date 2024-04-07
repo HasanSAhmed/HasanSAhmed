@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @HasanSAhmed
+- 👀 I’m interested in AR
+- 🌱 I’m currently learning C# and JS
+- 💞️ I’m looking to collaborate on any future projects
+- 📫 How to reach me aqua0541 on discord
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: idk
