@@ -7,6 +7,7 @@
 Projects:
 
  - SimpleCode - A web only responsive online code editor. Hosted completely online, using GitHub.
+    - Code editor for HTML, CSS, and JS
     - Made with HTML + JS.
     - Frontend in HTML + CSS
       
