@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @HasanSAhmed
-- 👀 I’m interested in AR
-- 🌱 I’m currently learning C# and JS
-- 📫 How to reach me aqua0541 on discord
-- 😄 Pronouns: He/Him
+- 👀 I’m interested in UI Design
+- 🌱 I’m currently learning C#, Python and JS
 
 Projects:
+
+- BetterMUN - A AIO Application for Model United Nations Clubs, Chairs, Members and more.
+    - Model UN Chairing software made in Python with Tkinter
+    - Adapted for hosting on any program IDE
+    - Unity/Itch io version in production
+    - Frontend in Tkinter
+    - Includes Features such as timers, stopwatches, motions, voting, conference history, motions history, roll call, etc..
 
  - SimpleCode - A web only responsive online code editor. Hosted completely online, using GitHub.
     - Code editor for HTML, CSS, and JS
